@@ -8,6 +8,7 @@ public class SampleTest {
 	public void launch() {
 		Reporter.log("SampleTest class executed", true);
 		Reporter.log("Modification done in GitHub", true);
+		Reporter.log("Changes in Sample Test after 1st push", true);
 	}
 
 }
